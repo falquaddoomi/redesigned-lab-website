@@ -52,7 +52,7 @@ Citation
 
 {%
   include citation.html
-  lookup="doi.org/10.1371/journal.pgen.1007752"
+  lookup="doi:10.1371/journal.pgen.1007752"
   style="rich"
 %}
 
