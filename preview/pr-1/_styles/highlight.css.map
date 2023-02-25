@@ -1,1 +1,0 @@
-{"version":3,"sourceRoot":"","sources":["highlight.scss"],"names":[],"mappings":"AAAA;EACE","sourcesContent":["mark {\n  background: #ffeb3b;\n}\n"],"file":"highlight.css"}

@@ -1,1 +1,0 @@
-{"version":3,"sourceRoot":"","sources":["float.scss"],"names":[],"mappings":"AAAA;EACE;EACA;;;AAGF;EACE;EACA;;;AAGF;EACE;EACA","sourcesContent":[".float {\n  margin-top: 40px;\n  margin-bottom: 40px;\n}\n\n.float:not([data-flip]) {\n  float: left;\n  margin-right: 40px;\n}\n\n.float[data-flip] {\n  float: right;\n  margin-left: 40px;\n}\n"],"file":"float.css"}
