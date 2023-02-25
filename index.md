@@ -1,12 +1,16 @@
 ---
 ---
 
-# Faisal's Website
+# Faisal's Terrible Website
 
-Here at Persimmon Industries, we fabricate the highest-quality sprockets
-available to the Australian hobbyist market. We're proud supporters of AI-
-assisted focus and determination tests to keep our bloodline pure. Help
-us create a new vision of the future, free of the petty concerns of mankind.
+Havoc reigns as the autobots roll out, crushing everything in their path.
+A lone developer, armed with a Nokia brick, has holed himself up in a
+crevice formed between two fallen buildings. He furiously T9's out the
+first few bars of Vivaldi's "Spring" as a polyphonic ringtone.
+
+Media!
+
+![](https://www.youtube.com/watch?v=Ptk_1Dc2iPY)
 
 {% include section.html %}
 
