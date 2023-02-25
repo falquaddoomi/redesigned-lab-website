@@ -22,11 +22,11 @@ Media!
 %}
 ## Component Tests
 
-Section
+### Section
 
 -- above component tests --
 
-Figure
+### Figure
 
 {%
   include figure.html
@@ -36,7 +36,7 @@ Figure
   width="400px"
 %}
 
-Button
+### Button
 
 {%
   include button.html
@@ -49,14 +49,14 @@ Button
   style="bare"
 %}
 
-Citation
+### Citation
 
 {%
   include citation.html
   lookup="doi:10.1371/journal.pgen.1007752"
   style="rich"
 %}
-
+### 
 List
 
 {%
@@ -66,7 +66,7 @@ List
   filters="group: featured"
   style="rich"
 %}
-
+### 
 Feature
 
 {% capture cat_info %}
@@ -82,14 +82,14 @@ Feature
   text=cat_info
   flip=true
 %}
-
+### 
 Icon
 
 {%
   include icon.html
   icon="fa-solid fa-heart"
 %}
-
+### 
 Card
 
 {%
@@ -105,7 +105,7 @@ Card
   style="small"
 %}
 
-Portrait
+### Portrait
 
 {%
   include portrait.html
@@ -113,14 +113,21 @@ Portrait
   style="small"
 %}
 
-Post Excerpt
+### Post Excerpt
 
 {%
   include post-excerpt.html
   lookup="2020-07-02-example-post-3"
 %}
 
-Tags
+Attempt 2
+
+{%
+  include post-excerpt.html
+  lookup="2020-07-02-example-post-3"
+%}
+
+### Tags
 
 {%
   include tags.html
@@ -129,7 +136,7 @@ Tags
   link="blog"
 %}
 
-Float
+### Float
 
 {% capture content %}
   Yowza, I've been hit!
@@ -141,7 +148,7 @@ Float
   flip=true
 %}
 
-Grid
+### Grid
 
 {% capture grid_content %}
   <p>Alpha</p>
@@ -156,7 +163,7 @@ Grid
   style="square"
 %}
 
-Cols
+### Cols
 
 {% capture col1 %}
   <p>Alpha</p>
@@ -174,12 +181,12 @@ Cols
   col2=col2
 %}
 
-Search
+### Search
 
 {% include search-box.html %}
 {% include search-info.html %}
 
-Site Search
+### Site Search
 
 {% include site-search.html %}
 
