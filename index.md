@@ -56,8 +56,8 @@ Media!
   lookup="doi:10.1371/journal.pgen.1007752"
   style="rich"
 %}
-### 
-List
+
+### List
 
 {%
   include list.html
@@ -66,8 +66,8 @@ List
   filters="group: featured"
   style="rich"
 %}
-### 
-Feature
+
+### Feature
 
 {% capture cat_info %}
 <p>Our cat is made up of people from all around the globe.</p>
@@ -82,15 +82,15 @@ Feature
   text=cat_info
   flip=true
 %}
-### 
-Icon
+
+### Icon
 
 {%
   include icon.html
   icon="fa-solid fa-heart"
 %}
-### 
-Card
+
+###  Card
 
 {%
   include card.html
