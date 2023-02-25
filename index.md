@@ -124,7 +124,7 @@ Attempt 2
 
 {%
   include post-excerpt.html
-  lookup="2020-07-02-example-post-3"
+  lookup="example-post-3"
 %}
 
 ### Tags
