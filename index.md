@@ -8,6 +8,9 @@ A lone developer, armed with a Nokia brick, has holed himself up in a
 crevice formed between two fallen buildings. He furiously T9's out the
 first few bars of Vivaldi's "Spring" as a polyphonic ringtone.
 
+Media!
+![](https://www.youtube.com/watch?v=Ptk_1Dc2iPY)
+
 {% include section.html %}
 
 ## Highlights
