@@ -14,16 +14,17 @@ Media!
 
 {% include section.html %}
 
-## Component Tests
-
-Section
-
 {%
   include section.html
   background="images/marigold_sultry.jpg"
   dark=true
   size=full
 %}
+## Component Tests
+
+Section
+
+-- above component tests --
 
 Figure
 
