@@ -191,7 +191,7 @@ Attempt 4 (mine, by title)
 {% endcapture %}
 
 {%
-  include grid.html
+  include cols.html
   col1=col1_text
   col2=col2_text
 %}
