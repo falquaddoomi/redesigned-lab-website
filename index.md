@@ -94,7 +94,7 @@ Media!
 
 {%
   include card.html
-  image="images/marigold_cute.jpg"
+  image="images/faisala.jpg"
   link="https://nasa.gov/"
   title="A Large Cat"
   subtitle="A cool cat"
