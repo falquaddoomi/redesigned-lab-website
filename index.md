@@ -165,20 +165,21 @@ Attempt 2
 
 ### Cols
 
-{% capture col1 %}
+{% capture col1_text %}
   <p>Alpha</p>
   <p><b>Beta</b></p>
   <p><span style="color: red;">Delta</span></p>
 {% endcapture %}
-{% capture col2 %}
+
+{% capture col2_text %}
   <p><i>Gamma</i></p>
   <p><i><b>Epsilon</b></i></p>
 {% endcapture %}
 
 {%
   include grid.html
-  col1=col1
-  col2=col2
+  col1=col1_text
+  col2=col2_text
 %}
 
 ### Search
