@@ -127,6 +127,20 @@ Attempt 2
   lookup="example-post-3"
 %}
 
+Attempt 3 (mine)
+
+{%
+  include post-excerpt.html
+  lookup="my-test-post"
+%}
+
+Attempt 4 (mine, by title)
+
+{%
+  include post-excerpt.html
+  lookup="a-cool-post"
+%}
+
 ### Tags
 
 {%
